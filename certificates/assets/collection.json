@@ -1,0 +1,15 @@
+{
+    "name": "Certificate Collection",
+    "description": "A collection of Certificates living on the blockchain",
+    "image": "collection.jpg",
+    "symbol": "AUTO",
+    "attributes": [],
+    "properties": {
+      "files": [
+        {
+          "uri": "collection.jpg",
+          "type": "image/jpg"
+        }
+      ]
+    }
+  }

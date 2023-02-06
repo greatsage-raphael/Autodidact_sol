@@ -1,0 +1,105 @@
+{
+  "program": {
+    "candyMachine": "Kygxfq19muqHceXDwF2WEPWkxWwV5zKhbYK1v2mvXX5",
+    "candyMachineCreator": "vrqmajLqaGUBeK7fbEysR4x2fLUBy2W6Dh7NFVS62YU",
+    "collectionMint": "BWisDvxbET7FyW5hK1vaVQjt3nEyW12djfjhLkJYPbx7"
+  },
+  "items": {
+    "-1": {
+      "name": "Certificate Collection",
+      "image_hash": "8b04cfdb18d8f7d40f475743027fca39769ab3ca3bcd91ee3d1a1f16b6170cd8",
+      "image_link": "https://arweave.net/NHPIcM1ncrgGrublnUfu7mvf75eNSfffXfrsrU19x8M?ext=jpg",
+      "metadata_hash": "f178f5783411981dccda114edc20ac9111ce3367ec5b3dc6a39a427a300d5587",
+      "metadata_link": "https://arweave.net/EG4rR8vRFvNDy6FnpFxo6WgiU90A3BGVDlNpkvh0qck",
+      "onChain": true
+    },
+    "0": {
+      "name": "Certificate of Achievement",
+      "image_hash": "8b04cfdb18d8f7d40f475743027fca39769ab3ca3bcd91ee3d1a1f16b6170cd8",
+      "image_link": "https://arweave.net/kpZBzKHbSXM7f2L07VFPX1hRJDy7WcdCjWtRjTAI50k?ext=jpg",
+      "metadata_hash": "313d6a343c510fd91491beaf942e370ce115f4221962ee8a11c1ca1ac921dbaf",
+      "metadata_link": "https://arweave.net/wNqrpPzfdiHzF7r9OOjjU08A3w5cQ0Tx2X4-UgXaiQg",
+      "onChain": false
+    },
+    "1": {
+      "name": "Certificate of Achievement",
+      "image_hash": "8b04cfdb18d8f7d40f475743027fca39769ab3ca3bcd91ee3d1a1f16b6170cd8",
+      "image_link": "https://arweave.net/mhmUIjN690Ivx6R716h1GgiBq7r7aPy-XY9_VHpLBm0?ext=jpg",
+      "metadata_hash": "86e21d0e5a21e10dbeb8edbb257c2ca2e7ae59379fd9f7e37c148514ff19d719",
+      "metadata_link": "https://arweave.net/GmOOI6gYUv6OdwDJKd8ecR4gaDKVnSTNzlSwLkCsJ40",
+      "onChain": false
+    },
+    "2": {
+      "name": "Certificate of Achievement",
+      "image_hash": "8b04cfdb18d8f7d40f475743027fca39769ab3ca3bcd91ee3d1a1f16b6170cd8",
+      "image_link": "https://arweave.net/EP3POCqUYH_ZPV1UASmTMsZ1ENb03hoJXDgznKVmrmY?ext=jpg",
+      "metadata_hash": "8eb2a5dfd0c57fb484f8ee0b0159eb8ffc9321af01f8ee3e7988756bd474aa9e",
+      "metadata_link": "https://arweave.net/0lpkgdDYZW53pmAmvb_yKZYSa-ZExbqfI9mOTpIpTrI",
+      "onChain": false
+    },
+    "3": {
+      "name": "Certificate of Achievement",
+      "image_hash": "8b04cfdb18d8f7d40f475743027fca39769ab3ca3bcd91ee3d1a1f16b6170cd8",
+      "image_link": "https://arweave.net/yXWCxFZ1ZsKmQHWuxgoFyaGjeOwzHbnq5XRd6zY_fBk?ext=jpg",
+      "metadata_hash": "be9e058cd8b498f048aee2b7e1128b36291bf7c709a015b247a5287d77d046c9",
+      "metadata_link": "https://arweave.net/Zh2m0_N7Lng8orS9ck_E3_ywoae_UaXi1Fb0Y2F48zo",
+      "onChain": false
+    },
+    "4": {
+      "name": "Certificate of Achievement",
+      "image_hash": "8b04cfdb18d8f7d40f475743027fca39769ab3ca3bcd91ee3d1a1f16b6170cd8",
+      "image_link": "https://arweave.net/ODuXv-n5jlkypSuPAKevRQJAck9Sj22yBtGFVX6m9G4?ext=jpg",
+      "metadata_hash": "81bdebc96148b78453e1f6aa3f1b4a9a462bc52db6bd57d99fe897fe6d618cbd",
+      "metadata_link": "https://arweave.net/XPxLT1YBGPvSNh5hlzCxbmz-wNcybtQ_jzqzKHxdNZA",
+      "onChain": false
+    },
+    "5": {
+      "name": "Certificate of Achievement",
+      "image_hash": "8b04cfdb18d8f7d40f475743027fca39769ab3ca3bcd91ee3d1a1f16b6170cd8",
+      "image_link": "https://arweave.net/4p2BanzdFfsOEAumusOUoBurkgqiz8_aQ8-I3uqX1Jk?ext=jpg",
+      "metadata_hash": "7b204de2fb34c74bab2c098ad18d366418124afb7fe2a7442bce4ad755696c94",
+      "metadata_link": "https://arweave.net/qzp81UnoXAXJvRa7D38yKiYKkm1NB1et-s3JNgzEWtg",
+      "onChain": false
+    },
+    "6": {
+      "name": "Certificate of Achievement",
+      "image_hash": "8b04cfdb18d8f7d40f475743027fca39769ab3ca3bcd91ee3d1a1f16b6170cd8",
+      "image_link": "https://arweave.net/ttUQIR19JHhcTMgjv3iRNJFbYp6zMwglK0ljHH1BKtI?ext=jpg",
+      "metadata_hash": "4ff14c9e3719a18a0f6a4c1939efd10c69e8f13e11da2c7634f620435b18e6a2",
+      "metadata_link": "https://arweave.net/FOG1xCDx10QqmAdrvYYiBDBe31X4rvT6vkV6bUDI_ts",
+      "onChain": false
+    },
+    "7": {
+      "name": "Certificate of Achievement",
+      "image_hash": "8b04cfdb18d8f7d40f475743027fca39769ab3ca3bcd91ee3d1a1f16b6170cd8",
+      "image_link": "https://arweave.net/ZRRRUAGPkPFiIDDgsM5G7ifAul2n-EywLK3zUGrnpeQ?ext=jpg",
+      "metadata_hash": "f46c5c0a33b821b8052190f3d8c4b2ffb60f18a3a39cd9d0242c8968930021c8",
+      "metadata_link": "https://arweave.net/eG9UQkW5oGwNhbbg8IH675DCfPvq4qdUfRkDoxVBJRI",
+      "onChain": false
+    },
+    "8": {
+      "name": "Certificate of Achievement",
+      "image_hash": "8b04cfdb18d8f7d40f475743027fca39769ab3ca3bcd91ee3d1a1f16b6170cd8",
+      "image_link": "https://arweave.net/q_-EAwMq2IN1UItrUThhptrvMXxg_tBHl-YVCk7dsl8?ext=jpg",
+      "metadata_hash": "1dbf07e1f1866ee83b988c975664df6cd3a9cf3f6d8eda832257db76895ee924",
+      "metadata_link": "https://arweave.net/wZPtWmkE4Il5p1R0k-DOiRq00d2m8-Gl64PnrAXiPiE",
+      "onChain": false
+    },
+    "9": {
+      "name": "Certificate of Achievement",
+      "image_hash": "8b04cfdb18d8f7d40f475743027fca39769ab3ca3bcd91ee3d1a1f16b6170cd8",
+      "image_link": "https://arweave.net/x86visSiWjGtbyAswuYeU1VUDv0gN09cg0JWUy9gQhI?ext=jpg",
+      "metadata_hash": "e0ca1da4a46ac308fc530d1dcfd17aa37d63d2e510207c6f88c59306267538dd",
+      "metadata_link": "https://arweave.net/BB8SRYt0qHeDJMal_EJhfM9s1IakaYZLvxQxAWzCFVg",
+      "onChain": false
+    },
+    "10": {
+      "name": "Certificate of Achievement",
+      "image_hash": "8b04cfdb18d8f7d40f475743027fca39769ab3ca3bcd91ee3d1a1f16b6170cd8",
+      "image_link": "https://arweave.net/MC_gDfsGAfJg2QDMudiL6ACm9JeUHE7769RBrWcIZsQ?ext=jpg",
+      "metadata_hash": "4c54f00187e719a20199cd8293a6dc025c2af07a9b4381336ca14e0ddab828d1",
+      "metadata_link": "https://arweave.net/vG-aR2EUmr1hmJDMTw00OGplFy23YUsxXfxqOiimQnM",
+      "onChain": false
+    }
+  }
+}

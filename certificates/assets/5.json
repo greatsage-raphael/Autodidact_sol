@@ -1,0 +1,20 @@
+{
+    "name": "Certificate of Achievement",
+    "description": "I present this achievement to the individual in recognition of their outstanding results and exceptional application in their courses",
+    "image": "5.jpg",
+    "symbol": "AUTO",
+    "attributes": [
+      {
+        "trait_type": "Certificate",
+        "value": "Nft"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "5.jpg",
+          "type": "image/jpg"
+        }
+      ]
+    }
+  }
